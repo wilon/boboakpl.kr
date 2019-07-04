@@ -1,4 +1,6 @@
-# A Fishing website source code. 
+# A phishing website source code. 
+
+I found this phishing website from my email. Hope nobody is deceived.
 
 From: https://boboakpl.kr
 
